@@ -1,0 +1,6 @@
+[submodule "Grootswagers_etal_degraded_objects"]
+	path = Grootswagers_etal_degraded_objects
+	url = https://github.com/Tijl/Grootswagers_etal_degraded_objects
+[submodule "Grootswagers_etal_2017_decodingtutorial"]
+	path = Grootswagers_etal_2017_decodingtutorial
+	url = https://github.com/Tijl/Grootswagers_etal_2017_decodingtutorial
